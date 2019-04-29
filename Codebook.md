@@ -1,14 +1,14 @@
 
 # Code Book
-## This code book aims to integrate and summarize the data resulting from the fields in tidy.txt of the Week 4 Course Project.
+### This code book aims to integrate and summarize the data resulting from the fields in tidy.txt of the Week 4 Course Project.
 
 ## Identifiers
-# Listed below are the two identifiers included:
+### Listed below are the two identifiers included:
 * `subject` - The ID of the test subject
 * `activity` - The type of activity performed when the corresponding measurements were taken
 
 ## Measurements
-# The following compiles the list of measurements:
+### The following compiles the list of measurements:
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
 * `tBodyAccMeanZ`
@@ -90,7 +90,7 @@
 * `fBodyBodyGyroJerkMagMeanFreq`
 
 ## Activity Labels
-# The activity labels are as follows:
+### The activity labels are as follows:
 * `WALKING` (value `1`): subject was walking during the test
 * `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
 * `WALKING_DOWNSTAIRS` (value `3`): subject was walking down a staircase during the test
